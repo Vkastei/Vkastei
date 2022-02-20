@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vkastei&theme=radical)]
+🌱 I’m currently learning Java, C/C++ and Python
+🌎 Germany
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vkastei&theme=radical)
 
 
