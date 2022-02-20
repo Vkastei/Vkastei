@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->🌱 I’m currently learning Java, C/C++ and Python 
+-->🌱 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vkastei&theme=radical)
+
+🌱I’m currently learning Java, C/C++ and Python 
 
 
