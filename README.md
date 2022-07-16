@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im just a skid from Germany👋
 
 <!--
 **Vkastei/Vkastei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vkastei&theme=radical)
 
-
-Just a skid from Germany
 🌱I’m currently learning Java, C/C++ and Python 
 
 
