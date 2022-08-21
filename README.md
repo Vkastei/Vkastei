@@ -1,4 +1,4 @@
-### Hi there, Im just a skid from Germany👋
+### Hi there, I like to code stuff in C++👋
 
 <!--
 **Vkastei/Vkastei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
