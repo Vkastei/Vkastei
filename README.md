@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 🌱I’m currently learning Java, C/C++ and Python 
 
-
-Portfolio: https://vkastei.github.io/
